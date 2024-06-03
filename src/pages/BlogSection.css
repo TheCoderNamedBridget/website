@@ -1,0 +1,16 @@
+.grid_view {
+    display: flex;
+    justify-content: center;
+
+}
+
+h1,
+p {
+    margin-left: 2vw;
+}
+
+.blog_heading_blurb {
+    max-width: 35vw;
+    margin-left: 35vw;
+    display: block;
+}
