@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
+import { Route, HashRouter as Router, Routes } from 'react-router-dom';
 import App from './App';
 import BlogSection from './pages/BlogSection';
 import PortfolioSection from './pages/PortfolioSection';
