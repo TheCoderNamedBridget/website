@@ -3,9 +3,8 @@ import ReactDOM from 'react-dom/client';
 import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import App from './App';
 import BlogSection from './pages/BlogSection';
-
-import './index.css';
 import PortfolioSection from './pages/PortfolioSection';
+import './index.css';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
