@@ -1,6 +1,7 @@
 {
   "name": "website",
   "version": "0.1.0",
+  "homepage": "https://thecodernamedbridget.github.io/website",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
